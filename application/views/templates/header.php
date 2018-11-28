@@ -109,16 +109,9 @@
         </div>
       </div>
     </nav> -->
-    <div class="section-landing">
-      <div class="container">
-        <h1 class="header">Bayar Dong</h1>
-        <p class="p-header">Sistem Informasi berbasis website untuk urusan bayar membayar tanggungan siswa.</p></br>
-        <a href="pembayaran" class="btn btn-info btn-lg">Check Pembayaran</a>
-        <a href="pembayaran" class="btn btn-danger btn-lg">Pembayaran</a>
-        <img src="https://skspace.sgp1.digitaloceanspaces.com/webAssets/public/alaligo-float.png" width="120" id="alaligo-astro-img">
-      </div>
-    </div>
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
+    <div class="section-landing">

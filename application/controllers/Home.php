@@ -5,6 +5,8 @@ class Home extends CI_Controller {
 	public function index(){
 		$this->load->view('templates/header');
 		$this->load->view('index');
+		$this->load->library('form_validation');
 		$this->load->view('templates/footer');
+		$this->load->helper('form');
 	}
 }
